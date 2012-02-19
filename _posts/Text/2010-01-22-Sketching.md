@@ -1,6 +1,7 @@
 ---
 layout: post
 category : Text
+title : 那天一起去画速写吧
 tags : [某天, 随想]
 ---
 ### 那天一起去画速写吧

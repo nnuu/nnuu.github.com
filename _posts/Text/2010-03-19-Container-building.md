@@ -1,6 +1,7 @@
 ---
 layout: post
 category : Text
+title : 集装箱建筑
 tags : [建筑, 感悟]
 ---
 前两天我看过一篇文章《冯小刚认识的aiww》提到：

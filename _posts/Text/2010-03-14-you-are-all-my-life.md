@@ -1,6 +1,7 @@
 ---
 layout: post
 category : Text
+title : you are all my life.
 tags : [yamml, 记忆]
 ---
 今天我打开尘封多年的Flickr帐号，上面保存着yamml.com最早的截图，以及一个yamml的logo.

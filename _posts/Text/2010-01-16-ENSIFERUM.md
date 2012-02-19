@@ -1,5 +1,6 @@
 ---
 layout: post
+title : 芬兰金属大团ENSIFERUM（圣剑）巡演广州站
 category : Image
 tags : [摄影, 摇滚, 现场]
 ---
