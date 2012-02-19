@@ -1,6 +1,6 @@
 ﻿---
 layout: page
-title: 凉金泽
+title: Kingz
 ---
 
 你正在访问凉金泽的个人网站。
