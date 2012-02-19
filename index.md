@@ -1,6 +1,6 @@
----
+﻿---
 layout: page
-title: Hello World!
+title: Kingz
 ---
 {% include JB/setup %}
 
@@ -29,7 +29,7 @@ When you don't need the samples anymore just delete the `_posts/core-samples` fo
 
     $ rm -rf _posts/core-samples
 
-Here's a sample "posts list".
+### 最近发布的文章:
 
 <ul class="posts">
   {% for post in site.posts %}
