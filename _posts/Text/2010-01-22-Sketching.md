@@ -1,7 +1,7 @@
 ---
 layout: post
 category : Text
-tags : [某天,随想]
+tags : [某天, 随想]
 ---
 ### 那天一起去画速写吧
 
