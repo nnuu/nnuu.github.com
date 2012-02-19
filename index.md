@@ -2,6 +2,7 @@
 layout: page
 title: Kingz
 ---
+{% include JB/setup %}
 
 你正在访问凉金泽的个人网站。
 
