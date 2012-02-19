@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: Kingz
 ---
@@ -29,7 +29,7 @@ When you don't need the samples anymore just delete the `_posts/core-samples` fo
 
     $ rm -rf _posts/core-samples
 
-### 最近发布的文章:
+Here's a sample "posts list".
 
 <ul class="posts">
   {% for post in site.posts %}
